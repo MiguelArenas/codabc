@@ -2,4 +2,7 @@ The package CodABC is computer framework to coestimate Recombination, Substituti
 
 The package is implemented in C, perl and R and can run on Linux and Mac OS and it includes a graphical user interface written in Java. Conveniently the simulations can, optionally, run in parallel on a user-specified number of processors.
 
+To download CodABC I recommend use the Chrome browser.  Then go to releases and click on the desired files (i.e., CodABC2.0.0b.zip; do not download Source code files because they only include a readme).
+
+
 Arenas, M.; Lopes, J.S.; Beaumont, M.A. and Posada, D. 2015. CodABC: A Computational Framework to Coestimate Recombination, Substitution and Molecular Adaptation rates by approximate Bayesian computation. Molecular Biology and Evolution. In press.
